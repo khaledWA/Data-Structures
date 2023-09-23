@@ -5,6 +5,9 @@ Name: Khaled Aldaqqa
 Email : kaldaqqa@uoguelph.ca
 Student ID: 1170260
 
+q1.c is the Car rental service program.
+q2.c is the reverse polish notation porgram
+
 For q.1:
 When you compile and run, you will be presented with the table of transactions. Pick a transaction and follow the instructions.
 Ex: 
