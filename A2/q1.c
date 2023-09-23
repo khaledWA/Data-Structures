@@ -1,9 +1,3 @@
-/*---------------------------------------------
-NAME: AHMAD SAWAN
-STUDENT ID: 1205875
-DATE: 22/10/2022
-Stacks
----------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
